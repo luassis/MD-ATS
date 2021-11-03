@@ -31,7 +31,7 @@ A implementação dos algoritmos foi realizada na linguagem de programação Pyt
 - 2. Algoritmo de Frequencia.ipynb
 - 3. Algoritmo de Luhn.ipynb
 - 4. Algoritmo Similaridade Cosseno.ipynb
-- 5. 5. Métricas Rouge.ipynb
+- 5. Métricas Rouge.ipynb
 
 Na primeira etapa da implementação, basicamente, é realizada a leitura do arquivo "news_summary.xlsx" e a geração do arquivo "news.json" com uma limpeza dos registros e seleção apenas das colunas que serão utilizadas na análise dos algoritmos.
 
