@@ -27,11 +27,11 @@ Inicialmente, decidimos pela exclusão de alguns registros da base pelo fato de 
 
 ## Arquivos - Código-Fonte
 A implementação dos algoritmos foi realizada na linguagem de programação Python e o ambiente de desenvolvimento utilizado foi o Jupyter Notebook. No total, foram gerados 5 arquivos de código-fonte:
-- 1. Importação Notícias.ipynb
-- 2. Algoritmo de Frequencia.ipynb
-- 3. Algoritmo de Luhn.ipynb
-- 4. Algoritmo Similaridade Cosseno.ipynb
-- 5. Métricas Rouge.ipynb
+1. Importação Notícias.ipynb
+2. Algoritmo de Frequencia.ipynb
+3. Algoritmo de Luhn.ipynb
+4. Algoritmo Similaridade Cosseno.ipynb
+5. Métricas Rouge.ipynb
 
 Na primeira etapa da implementação, basicamente, é realizada a leitura do arquivo "news_summary.xlsx" e a geração do arquivo "news.json" com uma limpeza dos registros e seleção apenas das colunas que serão utilizadas na análise dos algoritmos.
 
