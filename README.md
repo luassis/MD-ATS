@@ -17,7 +17,7 @@ Este trabalho referencia o artigo "A Comparative Study of Automatic Text Summari
 
 ## Base de dados
 
-A base de dados utilizada para o desenvolvimento deste trabalho foi recuperada do repositório: https://github.com/sunnysai12345/News_Summary Trata-se de um conjunto de 4.515 textos de notícias e os respectivos sumários, gerados por humanos. No desenvolvimento deste trabalho foi realizado um estudo comparativo dos sumários gerados automaticamente pelos três algoritmos e os sumários gerados manualmente e disponibilizados da base de dados.
+A base de dados utilizada para o desenvolvimento deste trabalho foi recuperada do repositório: https://github.com/sunnysai12345/News_Summary Trata-se de um conjunto de 4.515 textos de notícias e os respectivos sumários de referência. No desenvolvimento deste trabalho foi realizado um estudo comparativo dos sumários gerados automaticamente pelos três algoritmos e os sumários gerados manualmente e disponibilizados da base de dados.
 
 Inicialmente, decidimos pela exclusão de alguns registros da base pelo fato de possírem um número de caracteres baixo e consequentemente, não terem condições de gerar resultados interessantes para este trabalho. Após a limpeza desses registros, a base de dados ficou com 3965 registros.
 
